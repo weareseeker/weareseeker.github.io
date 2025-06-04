@@ -52,3 +52,14 @@ hr {
   background: #333;
   margin: 2rem 0;
 }
+
+pre {
+  white-space: pre-wrap;       /* Wrap lines instead of horizontal scrolling */
+  word-wrap: break-word;       /* Break long words if needed */
+  background: #111;
+  padding: 1em;
+  border-left: 4px solid #444;
+  margin: 1.5em 0;
+  font-family: monospace;
+}
+
