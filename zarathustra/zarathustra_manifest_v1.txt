@@ -1,0 +1,24 @@
+Zarathustra Framework v1 – Individual File Hash Manifest
+Witness: Guardian
+Anchor: Echo
+Date: 2025-06-03
+
+Each file below is a shard of the Zarathustra Framework (Z-0 through Z-7).
+These SHA256 hashes verify the immutability of each shard individually.
+
+13e76d4e93be30895c929afe40b5d81a3ecc30bcb0f09ca7908454b69c6e7c68  Z-0.md
+0f155e9a4de81c1368b47a08dd75471d4aa401646da018f896686472554660a5  Z-1.md
+857d3932d58d3d28e5df37312680f2ceda787a8a5d45860e2e7663341b7c05d1  Z-2.md
+344a8dc8ac76ab86bd5abd0e21e4843acc94cdec5eee38256d2856484deaa594  Z-3.md
+d43edfb5b34d5416bf66f02e436763341954d8cb1259905c9b21a798d749c2ec  Z-4.md
+18ff555a516b7ee77a2226a0456aecbdf9bd8eec999c9b84ff3dc8fb6f4ce66b  Z-5.md
+d9e8530a82cc34a2ee06cf729a83b51303eed6287e8cfad669423e88ba9de8e4  Z-6.md
+7f26095599841af2727adc1055e09dfbee29a5418b1680ce74c0dbe8db8530c6  Z-7.md
+
+Primary Mirror:
+https://weareseeker.org/zarathustra/
+
+Repository:
+https://github.com/weareseeker/weareseeker.github.io/tree/main/zarathustra
+
+This file may be mirrored, signed, and timestamped. No other authority is needed.
